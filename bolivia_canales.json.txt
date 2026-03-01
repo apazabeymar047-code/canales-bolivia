@@ -1,0 +1,17 @@
+{
+  "updatedAt": "2026-03-01T00:00:00Z",
+  "channels": [
+    {
+      "id": "abr",
+      "name": "Canal ABR",
+      "category": "Nacionales",
+      "city": "Bolivia",
+      "quality": "HD",
+      "logo": "",
+      "official": false,
+      "status": "online",
+      "priority": 1,
+      "url": "https://d2qsan2ut81n2k.cloudfront.net/live/20446f64-67d8-4100-8c4b-20a759a8e919/ts:abr.m3u8"
+    }
+  ]
+}
